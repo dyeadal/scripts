@@ -8,13 +8,15 @@ Variety of scripts
 
 ### Bash
 ---
-**dirsize.py**
+**showpublicip.sh**
 
-Displays a directory's stoarge usage
+Reveal public IP address of the network you are on using https://ipinfo.io/ and https://ipicanhazip.com
+
 
 
 ### Python 3
 ---
-**showpublicip.sh**
 
-Reveal public IP address of the network you are on using https://ipinfo.io/ and https://ipicanhazip.com
+**dirsize.py**
+
+Displays a directory's stoarge usage
