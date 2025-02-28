@@ -13,8 +13,7 @@ Variety of scripts
 Reveal public IP address of the network you are on using https://ipinfo.io/ and https://ipicanhazip.com
 
 
-
-
+---
 
 ### Python 3
 ---
