@@ -10,7 +10,7 @@ Variety of scripts
 ---
 **showpublicip.sh**
 
-Reveal public IP address of the network you are on using https://ipinfo.io/ and https://ipicanhazip.com
+  Reveal public IP address of the network you are on using https://ipinfo.io/ and https://ipicanhazip.com
 
 
 ---
@@ -20,4 +20,4 @@ Reveal public IP address of the network you are on using https://ipinfo.io/ and 
 
 **dirsize.py**
 
-Displays a directory's stoarge usage
+  Displays a directory's stoarge usage
