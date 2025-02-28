@@ -1,2 +1,5 @@
-# scripts
-Variety of scripts 
+# Scripts
+
+---
+
+Variety of Python and BASH scripts 
